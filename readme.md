@@ -34,7 +34,7 @@ A Swiggy-style food ordering web app with:
 - npm install
 - npm run dev
 
-**Frontend dependencies used:**
+- **Frontend dependencies used:**
 
 - react
 - react-dom
@@ -136,3 +136,4 @@ swiggy-clone/
 │  ├─ package.json
 │  └─ .env
 └─ README.md
+
